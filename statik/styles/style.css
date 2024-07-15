@@ -2,7 +2,7 @@
     body {
         padding: 0;
         margin: 0;
-        font-family: "LXGW WenKai TC", cursive;
+        font-family: "Montserrat", sans-serif;
         margin-top: 1px;
     }
 
@@ -88,7 +88,7 @@
 @media (max-width: 768px) {
     body {
         margin: 0;
-        font-family: "LXGW WenKai TC", cursive;
+        font-family: "Montserrat", sans-serif;
         padding: 0;
     }
 
